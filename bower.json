@@ -1,0 +1,24 @@
+{
+  "name": "wp-bootstrap-megamenu",
+  "version": "1.0.0",
+  "homepage": "https://github.com/soham2008xyz/wp-bootstrap-megamenu",
+  "authors": [
+    "Soham Banerjee <soham2008xyz@gmail.com>"
+  ],
+  "description": "Bootstrap-based megamenu for WordPress",
+  "main": "megamenu.css",
+  "keywords": [
+    "megamenu",
+    "css",
+    "wordpress"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+	"README.md"
+  ]
+}
