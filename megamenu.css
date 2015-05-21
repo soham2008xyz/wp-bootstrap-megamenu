@@ -1,7 +1,7 @@
 /*.megamenu .nav,*/
 .megamenu .collapse,
-.megamenu .dropup,
-.megamenu .dropdown {
+.megamenu .megamenu-dropup,
+.megamenu .megamenu-dropdown {
 	position: static;
 }
 .megamenu .container {
